@@ -1,6 +1,6 @@
 # Godot Game Template
 For Godot 4.2
-
+ 
 This template has a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 [Example on itch.io](https://maaack.itch.io/godot-game-template)
