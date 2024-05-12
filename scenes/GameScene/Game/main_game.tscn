@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://x4735s485pj6"]
+
+[ext_resource type="PackedScene" uid="uid://jdxnixs5wxy2" path="res://scenes/GameScene/Game/Player/player.tscn" id="1_hx16t"]
+[ext_resource type="Texture2D" uid="uid://sdbo8fqlpfos" path="res://scenes/GameScene/Game/bg_placeholder.png" id="1_s66j3"]
+
+[node name="MainGame" type="Node2D"]
+
+[node name="BgPlaceholder" type="Sprite2D" parent="."]
+texture = ExtResource("1_s66j3")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="PlayerBody" parent="." instance=ExtResource("1_hx16t")]

@@ -4,6 +4,7 @@
 ## Voirupt Team
 Programming: [Magno Gouveia](https://github.com/andarilhoz)
 Art: [Raphael Saraiva]
+TechArt: [DJ Aligator]
 
 ### Godot Game Template
 Author: [Marek Belski and contributors](https://github.com/Maaack/Godot-Game-Template/graphs/contributors)  
